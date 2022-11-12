@@ -76,12 +76,4 @@ Que signigie RDD ?,Streaming de données,Test de validation,,Raw distributed dat
 Qu’est-ce que le DAG ?,Streaming de données,Test de validation,,Une représentation des tâches à exécuter,Un dispositif qui permet d’optimiser les claculs,,,
 Les Dstreams sont définis par,Streaming de données,Test de validation,,Une limite de temps,Une limite d’espace,Une limite déterminée aléatoirement,Tous ces points,
 "Dans HBase, les données sont stockées par",Streaming de données,Test de validation,,Lignes,Familles de colonnes,Clefs,,
-string,string,string,string,string,string,,,
-string,string,string,string,string,string,,,
-string,string,string,string,string,string,,,
-string,string,string,string,string,string,,,
-string,string,string,string,string,string,,,
-string,string,string,string,string,string,,,
-string,string,string,string,string,string,,,
-string,string,string,string,string,string,,,wesh
-string,string,string,string,string,string,,,weeeeesh
+
